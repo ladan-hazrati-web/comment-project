@@ -1,0 +1,41 @@
+.container {
+  background-color: rgb(250, 249, 249);
+  margin: 20px 0px;
+  padding: 20px;
+  border: 1px solid rgb(184, 182, 182);
+  border-radius: 5px;
+}
+
+.commentBody {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  color: rgb(92, 91, 91);
+}
+.commentEmail {
+  color: rgb(148, 148, 255);
+}
+.inputReply {
+  width: 100%;
+  margin: 10px 0px;
+  padding: 10px 5px;
+  font-size: 16px;
+}
+.containerReply {
+  border-left: 3px solid blue;
+  padding: 0px 20px;
+  margin: 20px 0px;
+}
+
+.reply {
+  margin: 20px 0px;
+  background-color: white;
+  padding: 10px 20px;
+}
+.emailReply {
+  color: rgb(68, 107, 204);
+  margin-bottom: 15px;
+}
+.bodyReply {
+  width: 100%;
+  word-break: break-all;
+}
